@@ -1,1 +1,1 @@
-# my first commit
+# 使用可變電阻來調整PWM的週期
